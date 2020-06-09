@@ -1,0 +1,9 @@
+{
+  "BeginTimestamp": "2020-06-08T08:07:44.464026+00:00",
+  "Host": "",
+  "IndexName": "dns-*",
+  "Port": "9200",
+  "RegexIndexName": "analysis-regex",
+  "TimeRange": 10,
+  "TrafficIndexName": "analysis-traffic"
+}
